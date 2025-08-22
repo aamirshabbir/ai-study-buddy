@@ -24,3 +24,5 @@ yarn-error.log*
 
 # Environment variables
 .env
+
+ai-study-buddy-backup/
